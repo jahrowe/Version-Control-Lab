@@ -1,0 +1,1 @@
+This UPDATES.txt file is for the 2.0 branch.
